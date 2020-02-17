@@ -1,3 +1,7 @@
+Name: Jaya Lakshmi
+USF email address: jlakshmi@dons.usfca.edu
+
+
 # CS663 Lab 04 - Hierarchical
 
 Datasets for this lab are:
